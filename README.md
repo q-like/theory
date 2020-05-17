@@ -1,0 +1,2 @@
+# theory
+Qubit emulation theory
